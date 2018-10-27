@@ -12,6 +12,7 @@ html {
     background: -moz-linear-gradient(0deg, #70e1f5, #ffd194);
     background: linear-gradient(0deg, #70e1f5, #ffd194);
     background: linear-gradient (0deg, #70e1f5, #ffd194);
+    background: no-repeat;
 }
 .container {
     margin: 1rem;
